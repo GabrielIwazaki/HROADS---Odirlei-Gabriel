@@ -25,13 +25,13 @@ VALUES ('DeuBug', 1, 100, 80, '04/02/2019', '18/01/2019'),
 	   ('Fer8', 7, 75, 60, '04/02/2019', '18/03/2018')
 
 INSERT INTO CLASSE_HABILIDADE
-VALUES (1,2),
-       (1,3),
-	   (2,3),
-	   (3,2),
+VALUES (1,1),
+       (1,2),
+	   (2,2),
+	   (3,1),
+	   (4,2),
 	   (4,3),
-	   (4,4),
-	   (6,4)
+	   (6,3)
 
 SELECT * FROM CLASSES
 SELECT * FROM HABILIDADE
